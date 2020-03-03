@@ -8,4 +8,4 @@ This is one of my first **B E E G** projects. It will feature:
  - With that one, a counter of how many game ticks are left for getting to the boss
  - A simple saving method
 
-I hope you enjoy!
+I hope you enjoy :)
